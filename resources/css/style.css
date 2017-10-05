@@ -1,0 +1,42 @@
+html{
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+#discover{
+  font-family: Verdana;
+}
+
+h4{
+  color:aquamarine;
+  font-size: 16px;
+}
+
+.hidden, .personal{
+  color:white;
+}
+
+.hidden{
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.personal{
+font-weight:300;
+font-size:42px;
+}
+
+.excursion, p{
+  font-size:21px;
+  color:gray;
+  margin-bottom:40px;
+}
+
+img{
+  margin-bottom: 30px;
+}
+
+p{
+  text-align: right;
+}
